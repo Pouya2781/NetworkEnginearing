@@ -1,0 +1,9 @@
+{
+    "jwt": {
+        "private_key": "jwt_private_key_messenger"
+    },
+    "sms": {
+        "user": "sms_user_messenger",
+        "pass": "sms_pass_messenger"
+    }
+}

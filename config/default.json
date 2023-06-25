@@ -1,0 +1,11 @@
+{
+    "name": "Messenger",
+    "jwt": {
+        "private_key": "privateKey"
+    },
+    "sms": {
+        "user": "",
+        "pass": "",
+        "timeout": 120
+    }
+}
